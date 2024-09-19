@@ -1,0 +1,35 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pj Notes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pj Notes</h1>
+    </header>
+    <main>
+        <section class="notes">
+            <h2>Notes</h2>
+            <textarea id="note-input" placeholder="Write your note here..."></textarea>
+            <button id="save-note">Save Note</button>
+            <ul id="notes-list">
+                <!-- notes will be displayed here -->
+            </ul>
+        </section>
+        <section class="uploads">
+            <h2>Uploads</h2>
+            <input type="file" id="image-upload" accept="image/*">
+            <input type="file" id="document-upload" accept=".pdf, .docx, .txt">
+            <button id="upload-file">Upload File</button>
+            <ul id="uploads-list">
+                <!-- uploaded files will be displayed here -->
+            </ul>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
