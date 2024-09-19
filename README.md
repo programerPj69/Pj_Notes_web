@@ -38,4 +38,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project was inspired by the need for a simple note-taking app with basic features. I hope you find it useful!
 
 ##VIEW
-![logo](https://drive.google.com/file/d/1IDE-0ZyzJtV26o4DfU5cxsyH2-hZ2XQy/view?usp=sharing)
+![logo](view.png)
