@@ -1,4 +1,4 @@
-## Pj Notes
+###Pj Notes
 A simple note-taking app that allows users to write and save notes, upload images and documents, and edit and delete notes.
 
 ## Features
