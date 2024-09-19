@@ -32,9 +32,10 @@ This project is licensed under the MIT License.
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Author
-[Your Name]
+[Rajkaml Singh (Programerpj)]
 
 ## Acknowledgments
 This project was inspired by the need for a simple note-taking app with basic features. I hope you find it useful!
 
-   https://programerpj69.github.io/Pj_Notes_web/
+##VIEW
+![logo](https://drive.google.com/file/d/1IDE-0ZyzJtV26o4DfU5cxsyH2-hZ2XQy/view?usp=sharing)
