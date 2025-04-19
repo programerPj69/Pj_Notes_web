@@ -9,8 +9,7 @@ A simple note-taking app that allows users to write and save notes, upload image
 - Display saved notes and uploaded files
 
 ## Getting Started
-##CLICK ME##
--  https://programerpj69.github.io/Pj_Notes_web/
+ - link https://programerpj69.github.io/Pj_Notes_web/
 
 ### Usage
 - Write a note in the text area and click the **Save Note** button to save the note.
